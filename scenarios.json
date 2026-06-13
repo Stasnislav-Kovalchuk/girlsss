@@ -8,7 +8,7 @@
     "mood": ["Романтика", "Змішаний"],
     "desire": ["Вода і купання", "Вечеря з видом"],
     "atmosphere": ["Романтика", "Релакс"],
-    "max_distance": 100,
+    "max_distance": 1,
     "place_ids": ["edem_resort", "park3020", "arso"],
     "tags": ["романтика", "спа", "релакс", "вечеря"]
   },
@@ -21,7 +21,7 @@
     "mood": ["Актив", "Змішаний"],
     "desire": ["Вода і купання"],
     "atmosphere": ["Романтика", "Фотогенічні місця"],
-    "max_distance": 100,
+    "max_distance": 1,
     "place_ids": ["sirka_camp", "yasnytskyi_karier"],
     "tags": ["актив", "купання", "фото", "адреналін"]
   },
